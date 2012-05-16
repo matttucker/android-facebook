@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android-Facebook</string>
+    <string name="getstarted">Android-Facebook</string>
+    <string name="mantra">Demonstration of Facebook authentication and authorization.</string>
+    <string name="main">Successfully signed in!</string>
+    <string name="foursquare_connect">Facebook Connect</string>
+    <string name="menu_quit">Signout</string>
+
+</resources>
